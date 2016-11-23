@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="food_list">
+        <item>짜장</item>
+        <item>짬뽕</item>
+        <item>탕볶</item>
+        <item>라면</item>
+        <item>탕슉</item>
+    </string-array>
+</resources>
