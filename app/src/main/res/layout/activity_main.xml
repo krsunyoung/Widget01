@@ -92,4 +92,5 @@
         android:spinnerMode="dialog"
         android:prompt="@string/spinner_prompt"
         android:layout_marginTop="18dp" />
+    <!-- spinnerMode dropdown 으로 하면 바로 리스트로 뜸-->
 </RelativeLayout>
